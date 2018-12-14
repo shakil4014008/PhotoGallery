@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC2017", "MVC2017\MVC2017.csproj", "{2124DBBB-2821-4293-B3E3-02152086D9ED}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoGalleryInMVC", "MVC2017\PhotoGalleryInMVC.csproj", "{2124DBBB-2821-4293-B3E3-02152086D9ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC2017.Tests", "MVC2017.Tests\MVC2017.Tests.csproj", "{1354FB6B-A76B-42C7-B00C-CB84A6EBAE2B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoGalleryTest", "MVC2017.Tests\PhotoGalleryTest.csproj", "{1354FB6B-A76B-42C7-B00C-CB84A6EBAE2B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

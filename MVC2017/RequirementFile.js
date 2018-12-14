@@ -1,5 +1,10 @@
-﻿//1//create photo library, add photo, download photo, browse photo in MVC
+﻿//12/13/2018 - Photo gallery with upload, search in MVC with Unit testing framework
+// 2 databases used. 1- authentication 2 - photo info stored
+// databases are stored in the sql server 
+// there is register, login section
 
 
-//task 1: add student controller and display count data in the view using viewbag
-//-- set project name, added menu for studentinfo and connect the link
+
+
+//Issue resolve
+//make attention when EF database creation 

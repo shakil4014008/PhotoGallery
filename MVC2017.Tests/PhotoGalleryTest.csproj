@@ -99,9 +99,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MVC2017\MVC2017.csproj">
+    <ProjectReference Include="..\MVC2017\PhotoGalleryInMVC.csproj">
       <Project>{2124DBBB-2821-4293-B3E3-02152086D9ED}</Project>
-      <Name>MVC2017</Name>
+      <Name>PhotoGalleryInMVC</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
